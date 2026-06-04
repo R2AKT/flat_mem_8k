@@ -12,7 +12,7 @@ RAM - 2/4k.
 Status: tested in conjunction with the processor module at a frequency of up to 3 MHz (quartz resonator 27 MHz).
 
 Плата плоской (линейной) памяти на 8к.
-Для подключения к процессорной плате CPU_8080 - https://github.com/R2AKT/CPU_8080.
+Для самодельной 8-битной микро-ЭВМ - https://github.com/R2AKT/Mega-80.
 
 ПЗУ - 2кб;
 ППЗУ - 4/2кб;
