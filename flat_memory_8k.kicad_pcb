@@ -11,7 +11,7 @@
 		(title "Модуль линейной памяти 8к")
 		(date "2026-03-10")
 		(company "R2AKT")
-		(comment 1 "R2AKT.467562.001")
+		(comment 1 "R2AKT.467522.001")
 		(comment 2 "R2AKT")
 	)
 	(layers
@@ -16521,7 +16521,7 @@
 			)
 		)
 	)
-	(gr_text "R2AKT.467562.001"
+	(gr_text "R2AKT.467522.001"
 		(at 93.5986 91.296972 90)
 		(layer "F.SilkS")
 		(uuid "8814e905-e188-46e8-b9c2-5b89b1525aab")
